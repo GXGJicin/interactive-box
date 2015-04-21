@@ -3,7 +3,7 @@
 ## HTTP 
 `git clone --recursive https://github.com/GXGJicin/interactive-box.git`
 
-## SSH (lepsi, ale je potreb amit pridany SSH klic)
+## SSH (lepsi, ale je potreba mit pridany SSH klic)
 `git clone --recursive git@github.com:GXGJicin/interactive-box.git`
 
 
