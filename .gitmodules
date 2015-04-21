@@ -1,0 +1,6 @@
+[submodule "interactive-box_server"]
+	path = interactive-box_server
+	url = git@github.com:GXGJicin/interactive-box_server.git
+[submodule "interactive-box_elektro"]
+	path = interactive-box_elektro
+	url = git@github.com:GXGJicin/interactive-box_elektro.git
