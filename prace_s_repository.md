@@ -3,4 +3,4 @@
 
 `git pull --recurse-submodules`
 
-`git push --recurse-submodules`
+`git push --recurse-submodules=on-demand`
